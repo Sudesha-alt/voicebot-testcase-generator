@@ -1,0 +1,15 @@
+transcript = """
+Agent: Hello, I am Tara calling you from SunStone. Am I speaking with Rahul?
+Customer: Yes, speaking.
+Agent: I see you enquired about the MBA program. I’d love to share more details. Can I take 2-3 minutes?
+Customer: Sure, go ahead.
+Agent: SunStone offers MBA programs in multiple affiliated colleges with placement support. Can I ask your highest qualification?
+Customer: I have completed my graduation in 2023.
+Agent: Great! What was your 12th-grade score and year of passing?
+Customer: 85%, and I passed in 2019.
+Agent: Excellent! And your 10th-grade score and passing year?
+Customer: 80%, passed in 2017.
+Agent: Based on your details, I can suggest XYZ College and ABC Institute. Would you like me to arrange a call with our senior counselor?
+Customer: Yes, that sounds good.
+Agent: Perfect! I have submitted your application, and our senior counselor will call you shortly. Thanks for your time!
+"""

@@ -1,0 +1,22 @@
+call_script = """
+Hello, I am [Agent Name] calling from SunStone. Am I speaking with [Customer Name]?
+I see you enquired about the [Program] program. I’d love to take 2-3 minutes to discuss the available opportunities with you. May I proceed?
+
+(If Yes) 
+SunStone partners with multiple universities to offer industry-relevant programs with strong placement support. I’d like to check your eligibility to suggest the best options for you. Can I ask a few questions?
+
+(Eligibility Questions Based on UG or PG Program)
+1. What is your highest qualification?
+2. What was your 12th-grade percentage and year of passing?
+3. What was your 10th-grade percentage and year of passing?
+4. Are you planning to enroll in 2025?
+5. What is your parents' profession?
+6. Which city do you reside in?
+7. Do you have any college preferences within your city, or are you willing to relocate?
+
+Based on your details, I can suggest the following colleges: [College Names].
+Would you like me to arrange a call with our senior counselor for further assistance?
+
+(If Not Interested) 
+I understand. Could you share why so I can assist you better?
+"""

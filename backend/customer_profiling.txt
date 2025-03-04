@@ -1,0 +1,14 @@
+customer_profiling = {
+    "Customer Name": "Rahul Sharma",
+    "Program of Interest": "MBA",
+    "Highest Qualification": "Graduation (B.Com, 2023)",
+    "12th Grade Score": "85%",
+    "12th Grade Year of Passing": "2019",
+    "10th Grade Score": "80%",
+    "10th Grade Year of Passing": "2017",
+    "Planned Enrollment Year": "2025",
+    "Parents' Profession": "Father - Businessman, Mother - Teacher",
+    "Residence City": "Delhi",
+    "College Preferences": "Willing to relocate",
+    "Call Status": "Eligible - Referred to Senior Counselor"
+}
